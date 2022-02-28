@@ -1,0 +1,3 @@
+G:/code/EightQueens/cmake-build-debug/CMakeFiles/EightQueens.dir
+G:/code/EightQueens/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/code/EightQueens/cmake-build-debug/CMakeFiles/rebuild_cache.dir
