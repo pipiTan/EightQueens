@@ -1,2 +1,4 @@
 # ninja log v5
 871	1224	6677656263572678	queen.exe	a7935d69581d3f7e
+0	1280	6678283159371442	CMakeFiles/EightQueens.dir/main.cpp.obj	68ed5e81eadbc07
+1280	2084	6678283167099319	EightQueens.exe	fbcbeb1e1dcee74f
